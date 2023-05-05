@@ -5,7 +5,8 @@ We are presented with a page that prompts us to send a "name" to it.
 
 ![](indexPage.png)
 
-By default, when I encounter a case like this, I try to exploit Server-Side Template Injection (SSTI). You can learn more about SSTI on this website.
+By default, when I encounter a case like this, I try to exploit Server-Side Template Injection (SSTI). You can learn more about SSTI on this blog.
+https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 
 ![](stti.webp)
 
