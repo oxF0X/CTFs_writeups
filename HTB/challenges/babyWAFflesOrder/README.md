@@ -90,6 +90,6 @@ Now let's find the flag. Since I don't know its location, I'll check the config 
 
 The flag is copied to /flag. Let's try to read it:
 
-![](flag.png)
+![](-flag.png)
 
 As you can see, the server responded with the flag. Congratulations, we successfully completed the Baby Waffles Order web challenge!
